@@ -27,7 +27,7 @@ MovieMate is a Java Spring Boot application that provides RESTful endpoints to m
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/MovieMate.git
+   git clone https://github.com/Rancha124/MovieMate.git
    ```
 
 2. Navigate to the project directory:
